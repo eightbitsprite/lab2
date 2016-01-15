@@ -33,12 +33,6 @@ body {
      z-index: -1;	
 }
 
-.project {
-     margin-left: 20px;
-     background-color: #aec6cf;
-     padding: 10px;
-     width: 600px;
-}
 .project p {
     font-variant: small-caps;
 }
